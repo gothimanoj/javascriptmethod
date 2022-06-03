@@ -11,6 +11,7 @@ function odd(value){
     }
 }
 
+
 var out = arr.every(odd);
 var out1 = arr1.every(odd);
 console.log("Output of array 1 : " + out);
